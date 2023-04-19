@@ -1,6 +1,6 @@
 # Pset
 
-Run "npm start" inside the main directory containing app.js and routes.js to start up the backend. Use another terminal to run "npm start" inside the directory to run the react front-end.
+Run "npm start" inside the main directory containing app.js and routes.js to start up the backend. Use another terminal to run "npm start" inside the client directory to run the react front-end.
 
 
 
