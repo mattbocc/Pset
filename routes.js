@@ -4,7 +4,7 @@ const axios = require("axios");
 
 const mongoose = require("mongoose");
 mongoose.connect(
-  "mongodb+srv://root:root@development-cluster-ptdz3.azure.mongodb.net/orcestra-new?retryWrites=true&w=majority"
+  ""
 );
 
 router.get("/psets", async (req, res) => {
